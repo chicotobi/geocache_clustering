@@ -1,9 +1,0 @@
-{% if la_qu_li %}
-    <ul>
-    {% for question in la_qu_li %}
-        <li><a href="{% url 'polls:detail' question.id %}">{{ question.question_text }}</a></li>
-    {% endfor %}
-    </ul>
-{% else %}
-    <p>No polls are available.</p>
-{% endif %}
