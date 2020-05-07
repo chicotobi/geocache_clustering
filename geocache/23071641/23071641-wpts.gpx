@@ -1,0 +1,2814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Waypoints for Cache Listings Generated from Geocaching.com</name>
+  <desc>This is a list of supporting waypoints for caches generated from Geocaching.com</desc>
+  <author>Various users from Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>http://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2020-04-19T07:01:22.0410757Z</time>
+  <keywords>cache, geocache, waypoints</keywords>
+  <bounds minlat="49.10215" minlon="6.393667" maxlat="50.804633" maxlon="8.468133" />
+  <wpt lat="49.397033" lon="7.461283">
+    <time>2013-07-24T12:39:19.867</time>
+    <name>OP3TA76</name>
+    <cmt>Anreisevorschlag aus der Cachebeschreibung</cmt>
+    <desc>Querung der A6 von Süden (zu Fuß/Fahrad)</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9845008e-02d2-45a1-ba69-58e063668d63</url>
+    <urlname>Querung der A6 von Süden (zu Fuß/Fahrad)</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.306925" lon="7.421075">
+    <time>2013-03-25T12:43:52.85</time>
+    <name>PK48C4V</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b3bd2e85-76f4-486d-93dc-f5f24f0587ea</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.591667" lon="7.227083">
+    <time>2013-04-18T04:34:41.56</time>
+    <name>PK4A3MQ</name>
+    <cmt>Auch wenn es in der nähe des Cache nirgends wo Parkmöglichkeiten gibt, ist dies die Straße, die dem Cache am nächsten ist. Hier wird man wohl irgendwo einen Parkplatz finden.</cmt>
+    <desc>Parking (Parkplatz)</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ebc75c11-6936-4bbb-b903-3f85d5294bb4</url>
+    <urlname>Parking (Parkplatz)</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.592833" lon="7.229783">
+    <time>2013-04-18T04:40:05.233</time>
+    <name>RF4A3MQ</name>
+    <cmt>Dies ist wohl die Beste stelle, um zum Cache zu gelangen, natürlich gibt es auch noch andere Zugangspunkte.</cmt>
+    <desc>Zugangspunkt</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9a561500-68ac-4db1-93ff-9f1d67217f17</url>
+    <urlname>Zugangspunkt</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.345733" lon="7.253967">
+    <time>2013-04-27T04:17:20.923</time>
+    <name>PK4AQD9</name>
+    <cmt />
+    <desc>GC4AQD9 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=348de96a-f4f5-4588-aafe-79f864230f81</url>
+    <urlname>GC4AQD9 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.12255" lon="7.37845">
+    <time>2013-05-07T10:52:27.293</time>
+    <name>R14BHZP</name>
+    <cmt>Guckt euch auch diese nette Kapelle an!</cmt>
+    <desc>schöner kleiner Dom in der Nähe</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2da9441b-d00e-4974-83c0-d00911a2d4f4</url>
+    <urlname>schöner kleiner Dom in der Nähe</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.415667" lon="7.484333">
+    <time>2013-05-11T04:29:50.973</time>
+    <name>PK4BVDZ</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b6c324e1-be5c-4814-9389-1d251eb13dd6</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.415667" lon="7.484333">
+    <time>2013-05-11T04:57:56.383</time>
+    <name>PK4BVF0</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=76514293-2ca6-4c7f-9c01-948f54824774</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.415667" lon="7.484333">
+    <time>2013-05-11T05:29:30.197</time>
+    <name>PK4BVGW</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f4878630-6ba1-493d-885a-2ca47535076d</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1437" lon="7.161033">
+    <time>2013-05-28T12:23:46.41</time>
+    <name>PK4D4E8</name>
+    <cmt>KOSTENLOS - Daten für's Navi: 56812 Cochem, Maria Hell 1</cmt>
+    <desc>PARKEN</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5e4467cd-a891-4850-a1f8-2834b8c05ebe</url>
+    <urlname>PARKEN</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.54895" lon="7.629917">
+    <time>2013-05-31T12:29:07.813</time>
+    <name>PK4D9YD</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=adb10729-523c-4bb4-ab86-38feda9f8b0b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.184983" lon="7.335217">
+    <time>2013-06-05T14:44:11.463</time>
+    <name>BP4DMXT</name>
+    <cmt>Hier kann man sein Cachemobil abstellen.</cmt>
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1a897a1f-8f91-4ae0-be8e-64f9b9fe766b</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.485217" lon="7.16265">
+    <time>2013-06-14T10:32:33.227</time>
+    <name>ZU4E3ME</name>
+    <cmt />
+    <desc>Zugang</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c18b570e-0152-4460-9ae0-7bd9ee266997</url>
+    <urlname>Zugang</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.248833" lon="7.441617">
+    <time>2013-06-17T11:14:12.907</time>
+    <name>PK4EEXW</name>
+    <cmt />
+    <desc>GC4EEXW Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d98355a1-39ba-4153-af87-e1b1c032e681</url>
+    <urlname>GC4EEXW Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.541733" lon="6.966117">
+    <time>2013-06-21T04:53:47.733</time>
+    <name>PK4ENFW</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=4bb2af6f-71c3-4d58-afcd-49731c307e97</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.5259" lon="6.942933">
+    <time>2013-06-21T05:40:39.093</time>
+    <name>PK4ENHK</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b7310669-1685-4568-9c39-86df83dda1d7</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.9634" lon="7.124217">
+    <time>2015-01-18T13:00:42.88</time>
+    <name>PK4EWWE</name>
+    <cmt>Bitte hier Parken</cmt>
+    <desc>GC4EWWE Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5a97c436-f7dc-43d4-b66d-c725ce72347c</url>
+    <urlname>GC4EWWE Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.270867" lon="7.645833">
+    <time>2013-06-25T08:28:23.303</time>
+    <name>PK4EZ8F</name>
+    <cmt>Hier könnt Ihr aus Braubach kommend parken.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d929726c-667e-4f30-bb70-1b58ce5a9386</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.623467" lon="6.684967">
+    <time>2013-06-26T10:59:57.057</time>
+    <name>PK4F1EX</name>
+    <cmt>Parkpunkt</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d99bc2bb-84e2-4936-8627-a981bbff9ddc</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.125517" lon="7.58115">
+    <time>2013-06-28T10:52:26.583</time>
+    <name>PK4F542</name>
+    <cmt />
+    <desc>Parken Ransbrunnerhof</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6d51b882-cb8c-429e-aadb-4b059ea6b152</url>
+    <urlname>Parken Ransbrunnerhof</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.931383" lon="7.30825">
+    <time>2018-11-17T07:42:01.227</time>
+    <name>014F99D</name>
+    <cmt>Nur wenige Meter entfernt.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=74958800-015f-4200-84de-ba6df7f0936b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.120283" lon="7.840733">
+    <time>2013-07-05T00:13:54.72</time>
+    <name>PK4FJQA</name>
+    <cmt>hier kann kostenlos geparkt werden</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=924d86a1-7208-420e-8f42-a131b60c6e94</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.3108" lon="7.679183">
+    <time>2013-07-11T14:35:15.72</time>
+    <name>PK4G237</name>
+    <cmt>Parken</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7fa9e9bf-08e5-4631-a564-cfba5a70462d</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.132717" lon="7.452867">
+    <time>2013-07-15T10:00:38.76</time>
+    <name>PA4G617</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=10c83fcb-39f5-4b63-98fc-cc8af446a44b</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.674383" lon="7.7468">
+    <time>2013-07-18T07:13:39.207</time>
+    <name>PK4GHYY</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=14cf1ef8-bd8c-4c9e-b1db-02e8382c6a63</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.225553" lon="7.826305">
+    <time>2013-07-18T08:10:32.907</time>
+    <name>PK4GJ1P</name>
+    <cmt>An diesem Friedhof könnt ihr parken. Der Cache ist zwar noch weiter anfahrbar, allerdings ist die weiterführende Straße nur frei für landwirtschaftl. Fahrzeuge.</cmt>
+    <desc>Parking (Friedhof)</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=49eb41a9-2bb1-4d76-9e21-b0fe8766dd9a</url>
+    <urlname>Parking (Friedhof)</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.797683" lon="6.726183">
+    <time>2013-07-19T13:18:53.923</time>
+    <name>PK4GMG0</name>
+    <cmt>Hier sind genügend öffentliche Parkplätze</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2f62ce4e-7c5f-4128-a1f2-cac450b65db8</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.796183" lon="6.723133">
+    <time>2013-07-19T13:18:53.95</time>
+    <name>R14GMG0</name>
+    <cmt>Hier geht es zur Grillhütte</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ee89d5e4-2c7a-41a8-9856-25d3fd141404</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.7949" lon="6.72935">
+    <time>2013-07-19T13:18:53.993</time>
+    <name>R24GMG0</name>
+    <cmt>Hier geht ein kleiner Pfad Richtung Cache</cmt>
+    <desc>Reference Point 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b632f6c4-a1e9-439d-81d2-206d9d92a39a</url>
+    <urlname>Reference Point 2</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.784333" lon="6.938333">
+    <time>2013-07-23T02:41:08.67</time>
+    <name>014GXWM</name>
+    <cmt />
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=042a141e-283c-47bf-bb3f-9750d5da4680</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.123767" lon="7.901183">
+    <time>2013-07-23T10:55:23.73</time>
+    <name>PK4GYHK</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fec637fb-fb13-46f0-aa74-e81f08888914</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.355" lon="7.239633">
+    <time>2013-07-24T09:42:44.65</time>
+    <name>PK4GZ83</name>
+    <cmt />
+    <desc>GC4GZ83 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3510e3d3-1193-47a8-8ca5-ecc74049cbb2</url>
+    <urlname>GC4GZ83 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.8385" lon="8.239417">
+    <time>2013-07-24T05:14:21.07</time>
+    <name>PK4H07W</name>
+    <cmt />
+    <desc>GC4H07W Parking N 49° 50.310  E 008° 14.3650</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=21f9f9fc-9994-45af-991f-f68441c77197</url>
+    <urlname>GC4H07W Parking N 49° 50.310  E 008° 14.3650</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.355783" lon="8.049133">
+    <time>2013-07-30T08:42:03.21</time>
+    <name>PK4HF5K</name>
+    <cmt>Hier könnt ihr Parken.</cmt>
+    <desc>GC4HF5K Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=62d107d8-084d-40da-9dab-68e3b75225cb</url>
+    <urlname>GC4HF5K Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.935433" lon="6.618517">
+    <time>2013-07-30T13:24:42.01</time>
+    <name>014HG41</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=88291582-ec80-45b9-ba59-21b375cfca3d</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.21265" lon="7.338917">
+    <time>2013-08-10T11:42:14.15</time>
+    <name>PA4HWJ2</name>
+    <cmt>Hier könnt Ihr parken.</cmt>
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1bbec9af-ec5f-448c-a30f-f74e612b60e4</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.212083" lon="7.335217">
+    <time>2014-11-04T06:14:16.227</time>
+    <name>RE4HWJ2</name>
+    <cmt>Pfad zum Cache - T 2,5</cmt>
+    <desc>Einstiegspunkt</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=66188bf8-4cc1-452d-97d6-d7fa6d0f72c5</url>
+    <urlname>Einstiegspunkt</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.997467" lon="6.498383">
+    <time>2013-08-11T09:55:40.457</time>
+    <name>014JH7P</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=559e6c9c-f7b2-476e-84b6-e0e9c2ea4c00</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.34045" lon="7.232233">
+    <time>2013-08-12T08:54:05.987</time>
+    <name>FI4JN6H</name>
+    <cmt>Hier kann man Halten</cmt>
+    <desc>Finale </desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=17f305ae-a9b4-4839-9fbe-df4f2f3ff367</url>
+    <urlname>Finale </urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="50.322183" lon="7.248767">
+    <time>2013-08-12T08:58:51.793</time>
+    <name>PK4JN6W</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f5d81f96-f72a-41cb-983c-a469a51c867e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.78725" lon="7.713483">
+    <time>2013-08-13T04:59:44.25</time>
+    <name>PK4JQJR</name>
+    <cmt>An diesem Punkt kann man sein Auto abstellen. All zu lange sollte das Auto hier nicht verweilen. Von hier hat man einen schönen Drei-Dörfer-Blick auf Boos, Obersteit und Staudernheim.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a6269b44-af98-4308-a045-d551d1b7d94b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.785733" lon="7.712317">
+    <time>2013-08-13T04:59:44.26</time>
+    <name>R14JQJR</name>
+    <cmt>Wie der Name schon sagt.... Wenn man von hier aus etwas weiter läuft, kann man entweder links ins Wäldchen abbiegen (Abkürzung) oder ein Stück weiter ums Wäldchen herum zum nächsten Wegpunkt laufen.</cmt>
+    <desc>Ausblick auf Staudernheim</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7c62821e-2054-4385-bfe9-8f7af3034fa3</url>
+    <urlname>Ausblick auf Staudernheim</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.783683" lon="7.71345">
+    <time>2013-08-13T04:59:44.26</time>
+    <name>R24JQJR</name>
+    <cmt>Wenn man bis hierher gekommen ist, stehen wohl keine Kühe auf der Weide. Weiter gehts nach links zurück Richtung Ausgangspunkt. </cmt>
+    <desc>Ausblick auf Duchroth </desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9e432427-722b-4cce-8346-1410bb008172</url>
+    <urlname>Ausblick auf Duchroth </urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.316783" lon="7.451567">
+    <time>2013-09-01T13:56:44.423</time>
+    <name>014MAM2</name>
+    <cmt>Einstiegsmöglichkeit von der Parkempfehlung aus, Nähe der Infotafel Pirschweg des Tatzelwurmwanderweges</cmt>
+    <desc>Einstieg Nähe Infotafel Pirschweg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=581e72d3-f8fd-4442-b597-7a99bca0f3eb</url>
+    <urlname>Einstieg Nähe Infotafel Pirschweg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.321883" lon="7.451">
+    <time>2013-09-01T13:54:47.553</time>
+    <name>024MAM2</name>
+    <cmt>Einstiegsmöglichkeit Waalweg vom Guidoborn aus</cmt>
+    <desc>Einstieg vom Guidoborn</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=8d5c2d6c-9876-46b3-9d99-0f7659f40f10</url>
+    <urlname>Einstieg vom Guidoborn</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.318017" lon="7.451267">
+    <time>2013-09-01T13:52:09.237</time>
+    <name>PK4MAM2</name>
+    <cmt />
+    <desc>GC4MAM2 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d1785234-e809-4979-957c-56345501573b</url>
+    <urlname>GC4MAM2 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.1923" lon="7.75945">
+    <time>2013-09-12T10:52:49.96</time>
+    <name>PK4N6XC</name>
+    <cmt>Riesiger Parkplatz vor der Turnhalle</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6fbaf121-027e-4ca3-9767-bf51a024fe15</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.044583" lon="6.504667">
+    <time>2013-09-24T05:07:48.26</time>
+    <name>PK4NZ66</name>
+    <cmt>Grillhütte Bickendorf</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fa734c9c-d8c0-4ec3-b3df-bb428c31881d</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.657867" lon="6.563683">
+    <time>2013-09-28T12:50:58.627</time>
+    <name>PK4P6YW</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5631442d-b9a4-46fe-933b-a4f36bbfa22f</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.048167" lon="7.807">
+    <time>2013-10-23T12:27:18.963</time>
+    <name>PK4QT4N</name>
+    <cmt />
+    <desc>GC4QT4N Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=70863d20-255d-40fd-bcf2-6ea8f337e71e</url>
+    <urlname>GC4QT4N Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.347867" lon="7.194867">
+    <time>2013-12-07T11:04:29.39</time>
+    <name>PK4V5ED</name>
+    <cmt />
+    <desc>GC4V5ED Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3dc5a02e-0097-453f-a1e7-1af756569dd4</url>
+    <urlname>GC4V5ED Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1626" lon="7.415883">
+    <time>2013-12-23T06:20:52.017</time>
+    <name>R14VR3T</name>
+    <cmt>hier ging der nackert gerne baden</cmt>
+    <desc>TUEMPEL</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ba423462-125d-497e-9065-58dc93b33e8f</url>
+    <urlname>TUEMPEL</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.765583" lon="8.4266">
+    <time>2013-12-23T06:25:44.4</time>
+    <name>PK4VR3Z</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b4cea5d2-e06b-447a-96f6-73d80e429dc1</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.6077" lon="6.707167">
+    <time>2013-12-29T14:41:07.14</time>
+    <name>PK4W1VB</name>
+    <cmt />
+    <desc>GC4W1VB Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c3de0ea9-f56e-49e5-84b0-90507fe155d1</url>
+    <urlname>GC4W1VB Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.916933" lon="6.539733">
+    <time>2013-12-31T07:24:31.12</time>
+    <name>PK4W5Z2</name>
+    <cmt />
+    <desc>GC4W5Z2 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=325818da-21df-457a-8bbc-c72c2163adfd</url>
+    <urlname>GC4W5Z2 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.76775" lon="8.468133">
+    <time>2013-05-07T03:42:06.397</time>
+    <name>FN40GZ5</name>
+    <cmt />
+    <desc>GC40GZ5 Final</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=776094ae-7a2b-4657-a8fe-f10d18b455fa</url>
+    <urlname>GC40GZ5 Final</urlname>
+    <sym>Final Location</sym>
+    <type>Waypoint|Final Location</type>
+  </wpt>
+  <wpt lat="49.65495" lon="7.1821">
+    <time>2014-01-01T03:45:45.293</time>
+    <name>PK43R0Q</name>
+    <cmt />
+    <desc>GC43R0Q Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5096a32f-f4bb-42e5-80e2-6d0353eddc47</url>
+    <urlname>GC43R0Q Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.46125" lon="7.223333">
+    <time>2013-06-20T13:11:12.243</time>
+    <name>PK43TR6</name>
+    <cmt>Hier ist genügend Platz für das Cachemobil</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=984d2773-556f-4da7-a813-6a7d6e13fee4</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.454567" lon="8.077917">
+    <time>2013-04-21T10:24:38.86</time>
+    <name>0049CMG</name>
+    <cmt>Parkplatz Alte Schmelz</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=951edf84-5a7a-4d40-8cf6-5f5d8a01af14</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.454383" lon="8.07745">
+    <time>2013-04-21T10:26:19.76</time>
+    <name>0149CMG</name>
+    <cmt>Hier geht's hoch - dem weißen Dreieck folgen bis zu einem breiten Forstweg, dann entweder links (schöner) oder rechts (weiter der Markierung folgen, etwas kürzer).</cmt>
+    <desc>Einstieg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=edcd538e-a7b8-4a8c-a6e2-a869c4a36f09</url>
+    <urlname>Einstieg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.31605" lon="7.851433">
+    <time>2013-04-11T14:03:30.857</time>
+    <name>PK49KNM</name>
+    <cmt>Großer Parkplatz am Campingplatz Arnstein</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a8c04b82-7b1a-4e4f-8cec-9e670596bfac</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.316533" lon="7.849917">
+    <time>2013-04-26T10:48:41.853</time>
+    <name>R149KNM</name>
+    <cmt>Wenn dies der erste Cache Deiner Runde sein soll, ist dies ein möglicher Einstiegspunkt. Hier kannst Du hoch gehen, die Sackgasse ist ein öffentlicher Weg</cmt>
+    <desc>Möglicher Weg zwischen den Häusern</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2e221eeb-1510-45a0-a571-d891c489c6ce</url>
+    <urlname>Möglicher Weg zwischen den Häusern</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.31605" lon="7.851433">
+    <time>2013-04-11T14:15:55.94</time>
+    <name>PK49KPE</name>
+    <cmt>Großer Parkplatz am Campingplatz Arnstein</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=55128545-ecd3-4b99-bea7-21026751c408</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.304133" lon="7.873">
+    <time>2019-01-16T04:24:15.55</time>
+    <name>0149ZR7</name>
+    <cmt>Da einige von unten kamen, hier ein leichterer Einstieg/Startpunkt zum Cache...</cmt>
+    <desc>Erleichterter Einstieg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=24d5767d-5c4d-4944-903e-2c877caee1f4</url>
+    <urlname>Erleichterter Einstieg</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="49.826983" lon="7.893983">
+    <time>2013-04-21T07:04:41.79</time>
+    <name>HK4A9VE</name>
+    <cmt />
+    <desc>Sternwarte</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0a97e36d-eca7-480f-9b67-94da7f64115b</url>
+    <urlname>Sternwarte</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.724883" lon="8.228733">
+    <time>2013-04-21T06:52:51.817</time>
+    <name>PK4A9YM</name>
+    <cmt>Hier kann man das Auto abstellen!</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=24978c16-e74f-4fee-a102-2cfe9318b561</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.018233" lon="7.01485">
+    <time>2013-04-21T09:20:42.04</time>
+    <name>PK4AAE4</name>
+    <cmt>Hier könnt ihr Parken  (Achtung! Wirtschaftsweg)!</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=db71c079-85fb-438d-9ab5-8671633fdcd3</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.01915" lon="7.017117">
+    <time>2013-04-21T09:20:42.043</time>
+    <name>R14AAE4</name>
+    <cmt>Hier könnt ihr den Einstieg für den Aufstieg
+machen.</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=83d80fa2-ae53-48a7-a2fd-a3cbb0235002</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.534717" lon="7.7635">
+    <time>2013-04-22T09:49:03.99</time>
+    <name>PA4ADBX</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=dfad586e-7cb1-4eac-98b1-c4b741abc135</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.155145" lon="6.761221">
+    <time>2013-04-25T12:04:53.253</time>
+    <name>PK4AKWJ</name>
+    <cmt />
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=8d0dd5ea-c355-4f43-ab97-fe4aead8b0ad</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.31605" lon="7.851433">
+    <time>2013-04-25T14:24:22.353</time>
+    <name>PK4AM4B</name>
+    <cmt>Großer Parkplatz am Campingplatz Arnstein</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e7281417-b00e-4f28-8f36-83c9e6e4448b</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.139017" lon="7.76025">
+    <time>2013-04-26T03:13:37.57</time>
+    <name>PK4AN2F</name>
+    <cmt>Parkplatz</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e6309243-abff-435a-89bb-40928063a7bc</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.345733" lon="7.253967">
+    <time>2013-04-27T03:57:36.337</time>
+    <name>PK4ANFV</name>
+    <cmt />
+    <desc>GC4ANFV Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b89d98ee-bb4c-41f9-b92b-d383506784e9</url>
+    <urlname>GC4ANFV Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.088449" lon="6.917881">
+    <time>2013-05-14T12:26:52.387</time>
+    <name>PK4AR3Z</name>
+    <cmt>Achtung:
+Für normale Straßen PKW ist der Weg zum Final untauglich!!!</cmt>
+    <desc>GC4AR3Z Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=eda87144-21ac-4a9f-addc-0d1e77c41361</url>
+    <urlname>GC4AR3Z Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.63145" lon="7.919167">
+    <time>2013-04-27T11:45:53.94</time>
+    <name>014ARA1</name>
+    <cmt>Falls man den Cache gesondert machen will</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=acd11511-ac2b-412f-8b57-29c3e7d070b8</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.63145" lon="7.919167">
+    <time>2013-04-27T13:24:27.437</time>
+    <name>014ARJY</name>
+    <cmt>Falls man den Cache gesondert machen will</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0e48307c-dfae-46f6-b207-a1192eab8408</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.206817" lon="7.614417">
+    <time>2013-04-28T11:57:15.137</time>
+    <name>004AW4D</name>
+    <cmt />
+    <desc>Parkplatz fürs cachemobil</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e0ef38b2-cdc9-4ce1-b513-cd9e7b52d0e0</url>
+    <urlname>Parkplatz fürs cachemobil</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.758533" lon="7.863233">
+    <time>2013-04-29T10:40:08.287</time>
+    <name>FN4AXV3</name>
+    <cmt />
+    <desc>GC4AXV3 Final</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e1d0f90d-0941-44e9-9591-6d7637fdb13a</url>
+    <urlname>GC4AXV3 Final</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.328667" lon="8.3795">
+    <time>2013-05-02T03:02:46.003</time>
+    <name>PK4B4YR</name>
+    <cmt>Hier könnt ihr meist gut parken!</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=777402ae-958c-4271-b840-f357c76eadf4</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.7827" lon="6.706933">
+    <time>2013-05-02T12:37:08.293</time>
+    <name>PK4B5XT</name>
+    <cmt>Parkplatz</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=22a211d8-95d8-4152-ae30-45cb6af88043</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.62155" lon="7.25535">
+    <time>2013-05-10T12:07:06.643</time>
+    <name>014B984</name>
+    <cmt />
+    <desc>Hier Parken und Starten</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1fa9d5d9-ab0b-48a6-94a5-96994d031c2d</url>
+    <urlname>Hier Parken und Starten</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.62155" lon="7.25535">
+    <time>2013-05-10T12:11:43.82</time>
+    <name>PK4B98P</name>
+    <cmt />
+    <desc>Hier Parken und Starten</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ac3d4b5b-769e-4362-bcce-483d93abbb2a</url>
+    <urlname>Hier Parken und Starten</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.62155" lon="7.25535">
+    <time>2013-05-10T12:13:12.65</time>
+    <name>PK4B992</name>
+    <cmt />
+    <desc>Hier Parken und Starten</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d6eef4bc-7b4e-4290-acf1-74eeb7187ed2</url>
+    <urlname>Hier Parken und Starten</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.62155" lon="7.25535">
+    <time>2013-05-10T12:14:58.453</time>
+    <name>PK4B99M</name>
+    <cmt />
+    <desc>Hier Parken und Starten</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2e771573-3563-40b4-8d28-3d88e9591ed7</url>
+    <urlname>Hier Parken und Starten</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.62155" lon="7.25535">
+    <time>2013-05-10T12:16:46.503</time>
+    <name>PK4B9AB</name>
+    <cmt />
+    <desc>Hier Parken und Starten</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5f6316ff-5298-4746-8999-f263488c5a15</url>
+    <urlname>Hier Parken und Starten</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.1824" lon="7.887367">
+    <time>2013-06-23T10:50:06.6</time>
+    <name>PK4BHTV</name>
+    <cmt>Platz für Euer Cachemobil</cmt>
+    <desc>GC4BHTV Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3a558ebf-191b-42d7-8eaa-992ba65d700e</url>
+    <urlname>GC4BHTV Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.152583" lon="7.41925">
+    <time>2013-05-08T03:27:47.123</time>
+    <name>R14BKEH</name>
+    <cmt>Wenn ihr nicht ins Tal runter wollt Richtung Mosel, könnt ihr auch eine Runde auf der Höhe durch den Wald radeln und hier hin zurückkehren.</cmt>
+    <desc>Radweg rundfahren</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2bddca1c-521f-4600-8efe-d9f66a28af8d</url>
+    <urlname>Radweg rundfahren</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.947317" lon="6.817217">
+    <time>2013-05-11T09:08:32.737</time>
+    <name>PK4BMNT</name>
+    <cmt>Hier solltet ihr parken. Bitte nicht direkt am Cache parken.</cmt>
+    <desc>GC4BMNT Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e4f0668f-d723-4573-ab86-3cbf3b2a037a</url>
+    <urlname>GC4BMNT Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.816033" lon="7.03375">
+    <time>2013-05-09T05:34:53.16</time>
+    <name>PK4BNVD</name>
+    <cmt>Hier ist Platz für euer Cachemobile</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d78e6349-4de6-459f-8f4a-32e42a5c31ef</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.483117" lon="7.02195">
+    <time>2013-05-09T10:24:32.207</time>
+    <name>PK4BPG8</name>
+    <cmt>Parken Schauen abfahren</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ea213e8f-1ca7-4188-b009-942e82067ec1</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.495167" lon="7.585217">
+    <time>2013-06-01T10:18:35.313</time>
+    <name>PP4BVGR</name>
+    <cmt>Parkplatz</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3a87f150-34b8-48e5-8d6a-bc7ec2ce487d</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.415667" lon="7.484333">
+    <time>2013-05-11T05:51:14.11</time>
+    <name>PK4BVJE</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c60b5f38-8912-4cef-8b1d-b69511ea5760</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.327217" lon="7.87115">
+    <time>2013-05-11T15:01:21.547</time>
+    <name>PK4BX6A</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2c46b872-598b-4dd2-81b0-abe8b5a9d9ad</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.314517" lon="7.855967">
+    <time>2013-05-11T15:12:44.78</time>
+    <name>PK4BX70</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b263f244-62fb-4c18-8a87-e573d5c72742</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.770802" lon="7.443586">
+    <time>2013-05-14T00:00:40.4</time>
+    <name>PK4C39V</name>
+    <cmt>Hier kann in der Regel des Cache-Mobil abgestellt werden.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=eff63322-079c-47f9-a991-97aff5c6bbf2</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.359869" lon="7.602751">
+    <time>2013-05-14T13:08:17.653</time>
+    <name>RP4C4RB</name>
+    <cmt>Wandrelief zur Erinnerung an das Karmeliterkloster</cmt>
+    <desc>Wandrelief</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=17f42d4f-26a3-4aa0-8c2c-7a0fa8e9791f</url>
+    <urlname>Wandrelief</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.108692" lon="6.990589">
+    <time>2014-05-03T03:25:47.263</time>
+    <name>PK4C6Z1</name>
+    <cmt />
+    <desc>GC4C6Z1 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6927ad71-c828-4652-888b-24925ac78faf</url>
+    <urlname>GC4C6Z1 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.143183" lon="7.445517">
+    <time>2013-05-20T13:24:28.673</time>
+    <name>B14C8EB</name>
+    <cmt>Wenn ihr auf der südlichen Seite des Baybachs auf der Traumschleife Baybachklamm unterwegs seid, könnt ihr diese große Brücke und ihre kleine Schwester-Brücke benutzen, um zum Geocache und danach zur Waldecker Mühle zu spazieren. Oder doch lieber durch den Bach (bei den Biberbäumen am Wegweiser)?</cmt>
+    <desc>Brücken von der Traumschleife zu Cache und Mühle</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=493ffb30-3ba4-429e-a149-2cc7f9ea6599</url>
+    <urlname>Brücken von der Traumschleife zu Cache und Mühle</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.143633" lon="7.44335">
+    <time>2013-05-20T13:20:21.273</time>
+    <name>R14C8EB</name>
+    <cmt>Das Mühlhaus und das Wohnhaus sind 
+noch gut zu erkennen. Wir freuen uns, 
+wenn ihr uns eure Mühlen-Fotos aus 
+allen Jahreszeiten zeigt.</cmt>
+    <desc>Ruine der Waldecker Mühle (seid lieb zu ihr)</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d6c3eb46-c378-4115-bfeb-17ce77bea316</url>
+    <urlname>Ruine der Waldecker Mühle (seid lieb zu ihr)</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.788217" lon="7.615067">
+    <time>2013-05-18T00:36:42.653</time>
+    <name>PA4CB4K</name>
+    <cmt>Parken Wirtschaftsweg</cmt>
+    <desc>GC4CB4K Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f4a57f29-ee54-42a5-99ab-b6b1b32937f6</url>
+    <urlname>GC4CB4K Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.786167" lon="7.623683">
+    <time>2013-05-18T00:20:40.513</time>
+    <name>PK4CB4K</name>
+    <cmt>Parken Wendehammer</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=51b864db-267f-41cd-ae86-595165c05a97</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.9463" lon="6.51465">
+    <time>2013-05-18T10:01:39.497</time>
+    <name>PK4CBZB</name>
+    <cmt>Hier könnt ihr euer Cachemobil abstellen.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f6fce49b-021d-4fa0-8ef4-63a48356b660</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.945567" lon="6.513817">
+    <time>2013-05-18T10:01:39.483</time>
+    <name>T14CBZB</name>
+    <cmt>Hier solltet ihr den Cache finden.</cmt>
+    <desc>Cachelocation</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=44f857af-b549-44a8-8fae-22b146296900</url>
+    <urlname>Cachelocation</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="50.17135" lon="7.688433">
+    <time>2013-05-18T23:44:01.58</time>
+    <name>PK4CDCZ</name>
+    <cmt>Ein guter Platz zum Parken des Cachemobils.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=02079e5d-3488-4e5d-99e5-12e351e4625f</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.461609" lon="7.743014">
+    <time>2013-05-19T08:15:56.77</time>
+    <name>P24CDEG</name>
+    <cmt>Parkplatz am Waldrand.
+---
+Parking at the edge of the forest.</cmt>
+    <desc>GC4CDEG Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e0d724bc-a81d-4d8a-b883-c9c270ab2586</url>
+    <urlname>GC4CDEG Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.472217" lon="7.763983">
+    <time>2013-05-19T05:44:45.61</time>
+    <name>PK4CDEG</name>
+    <cmt>Parkplatz neben dem Friedhof.
+---
+Parking next to the cemetery.</cmt>
+    <desc>GC4CDEG Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=58312d4b-7548-45d0-9138-3b4db9ff2e4d</url>
+    <urlname>GC4CDEG Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-19T11:19:02.497</time>
+    <name>PK4CETK</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7e45969b-f8aa-417c-bd25-64f71341881a</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-19T11:43:30.99</time>
+    <name>PK4CEXF</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b4b807b4-b4f4-405d-9068-5cd41cc34744</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-19T11:47:42.16</time>
+    <name>PK4CEY0</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=95f461af-1c64-4323-9a47-ff173377d9c9</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-19T11:52:58.887</time>
+    <name>PK4CEYT</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ebbb72de-a1c7-47a7-9e42-76fa105d73b9</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T00:48:24.94</time>
+    <name>PK4CGHW</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f3c38de5-b0a3-4e56-b84e-0a4191fcebf1</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T00:51:17.803</time>
+    <name>PK4CGHX</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ba2dcc3e-a90e-4c8c-9320-d90d3123cb44</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T00:56:36.04</time>
+    <name>PK4CGJ1</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ffedc7be-5c76-40c7-b3ea-35f251fee12e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T01:01:00.793</time>
+    <name>PK4CGJ6</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9eb4044f-085d-4fdf-a15a-21a4d3b6779e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T01:04:43.017</time>
+    <name>PK4CGJ8</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=15adf67c-c8b0-471c-87d3-1cd87f1c30c0</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T10:44:30.913</time>
+    <name>PK4CHTP</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1286f286-84d4-4f38-ae96-db7d9e93d570</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T10:48:19.69</time>
+    <name>PK4CHV4</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e50c93a4-a817-42c1-b198-2d4f67caf033</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T10:53:25.12</time>
+    <name>PK4CHVH</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a2be9b16-e152-49b9-8820-64ac7a54b44f</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T10:57:21.46</time>
+    <name>PK4CHVV</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e5fd80a3-04c1-4251-8855-5a614f2da001</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.5796" lon="6.72305">
+    <time>2013-05-20T11:00:27.26</time>
+    <name>PK4CHW4</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=69069ac8-b10e-408d-b8c2-b4fe24b50b36</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.983183" lon="7.144217">
+    <time>2013-05-21T07:50:41.59</time>
+    <name>PK4CKTG</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d30492b3-6b8f-4319-b401-e1824dbaeda9</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.977633" lon="7.142083">
+    <time>2013-05-21T07:50:41.59</time>
+    <name>R14CKTG</name>
+    <cmt />
+    <desc>Hilfspunkt</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e52edc90-eed5-443a-8898-9afdd998883c</url>
+    <urlname>Hilfspunkt</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.894767" lon="6.641617">
+    <time>2013-05-30T02:45:16.633</time>
+    <name>PA4CNJ8</name>
+    <cmt />
+    <desc>Orenhofen</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9e702c7a-b37e-400a-8fae-2fd2ce3a0428</url>
+    <urlname>Orenhofen</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.8913" lon="6.640517">
+    <time>2013-05-31T02:13:37.847</time>
+    <name>W14CNJ8</name>
+    <cmt />
+    <desc>hier geht's lang</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c5d730a6-6d7f-48b2-80d8-749b16852e0d</url>
+    <urlname>hier geht's lang</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.5307" lon="7.133333">
+    <time>2013-05-24T22:38:54.913</time>
+    <name>PK4CW5H</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=470dfffb-2544-4f8b-a843-03adf72dadcc</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.10215" lon="7.806767">
+    <time>2013-05-25T03:46:47.867</time>
+    <name>PK4CWDY</name>
+    <cmt>Parken</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=da244f6d-ab86-4fa3-b345-ba5acfc78064</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.804633" lon="7.898">
+    <time>2013-08-15T09:38:16.73</time>
+    <name>PK4JYEG</name>
+    <cmt>Parkmöglichkeit</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=19028e06-1ae8-412d-864a-fc460fd2afa3</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-27T06:07:05.187</time>
+    <name>PK4P4AZ</name>
+    <cmt>eine Parkmöglichkeit an der B9</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=920624f7-30d5-49c6-abb0-84bade414149</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-27T06:13:18.773</time>
+    <name>PK4P4BC</name>
+    <cmt>Parkmöglichkeit an der B9</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=17374f14-7ec6-47f5-a92e-7dd426ab224c</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-27T06:21:43.67</time>
+    <name>PK4P4BT</name>
+    <cmt>wenige Parkplätze neben der B9</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=89f49753-7f24-4fb1-8757-b8747d2e195b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-27T06:28:58.267</time>
+    <name>PK4P4C1</name>
+    <cmt>wenige Parkplätze am Rande der B9</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fbb6c837-95da-4ce4-8261-2c94906ed75e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-29T00:01:50.487</time>
+    <name>PK4P83T</name>
+    <cmt>ein möglicher Parkplatz an der B9</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2f311f3d-1f00-4a16-9c22-bb2ceab0c06e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.6387" lon="7.20595">
+    <time>2013-09-29T00:23:30.253</time>
+    <name>PK4P84B</name>
+    <cmt>Parken möglich</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f1dc5f3a-8d92-438a-8b7c-dbc440f7002d</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.289967" lon="8.0639">
+    <time>2013-10-03T12:11:59.87</time>
+    <name>PK4PH77</name>
+    <cmt>Hier kann man später auch einkehren.</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0f1d0ede-9510-48d7-a740-33f3ad9382be</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.369667" lon="7.006267">
+    <time>2013-10-04T03:09:41.407</time>
+    <name>PK4PJ5Y</name>
+    <cmt />
+    <desc>Parkplatz Brünnchen</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=49623d77-08e0-4287-acb0-0b65959b9159</url>
+    <urlname>Parkplatz Brünnchen</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.307083" lon="7.421467">
+    <time>2013-11-11T11:07:20.96</time>
+    <name>PK4RWB1</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d1b9aa46-e554-494d-ac59-9c795e9439cd</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.30615" lon="7.422967">
+    <time>2013-11-11T11:04:55.95</time>
+    <name>S14RWB1</name>
+    <cmt />
+    <desc>Weg zum Waschbrunnen</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=50faa16e-f559-4720-aefe-5010ab5b7118</url>
+    <urlname>Weg zum Waschbrunnen</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.09114" lon="6.96266">
+    <time>2014-04-06T11:14:33.283</time>
+    <name>PK4T4M8</name>
+    <cmt />
+    <desc>GC4T4M8 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2b3ec869-5fdc-4e06-8bf3-ec7c4bde6e41</url>
+    <urlname>GC4T4M8 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.723217" lon="7.276217">
+    <time>2013-11-16T08:18:39.31</time>
+    <name>PK4T511</name>
+    <cmt />
+    <desc>GC4T511 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5386b1dc-af5a-47be-a83d-f6a6a31ecffb</url>
+    <urlname>GC4T511 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.20955" lon="7.338033">
+    <time>2014-10-22T12:49:24.687</time>
+    <name>RE4VD5A</name>
+    <cmt>Einstiegsempfehlung zum Cache</cmt>
+    <desc>Ref</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d9fb36a0-558d-434f-bd0a-183e82d70b53</url>
+    <urlname>Ref</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.17895" lon="6.863483">
+    <time>2013-12-22T04:23:58.057</time>
+    <name>S14VGGE</name>
+    <cmt>Von hier aus erreicht ihr das Ziel.</cmt>
+    <desc>Referenzpunkt1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=50bc503f-10da-48cc-b483-bab9e10e7299</url>
+    <urlname>Referenzpunkt1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.2071" lon="7.914917">
+    <time>2014-01-12T08:29:26.49</time>
+    <name>014WVT6</name>
+    <cmt>Einstieg zur Plattform</cmt>
+    <desc>Trailhead 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fedb1fcc-04bb-41bd-9755-21ad9759c480</url>
+    <urlname>Trailhead 1</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="50.1978" lon="7.439667">
+    <time>2013-05-26T13:55:03.09</time>
+    <name>R14D03N</name>
+    <cmt>Ihr könnt vom Hunsrück auf dieser Strecke zur Mosel runter radeln. </cmt>
+    <desc>Radweg mit Aussicht</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ae4b02f4-7238-41f1-a50f-c27a62550547</url>
+    <urlname>Radweg mit Aussicht</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.37925" lon="7.74145">
+    <time>2013-05-30T14:18:24.677</time>
+    <name>PK4D89P</name>
+    <cmt>Parkplatz am Bürgerhaus</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c9a3d76c-bae8-4a79-beca-11afd54b5ea9</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.38105" lon="7.743183">
+    <time>2013-05-30T14:18:24.693</time>
+    <name>R14D89P</name>
+    <cmt>Der eigentliche Talbrunnen</cmt>
+    <desc>Talbrunnen</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=524ef662-18f1-4faf-9fa5-4bfcc95aebaf</url>
+    <urlname>Talbrunnen</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.150517" lon="7.392067">
+    <time>2013-05-31T15:12:59.143</time>
+    <name>PK4DA7C</name>
+    <cmt>Hier könnt ihr auf die Wanderkarte gucken und nach Westen loswandern. </cmt>
+    <desc>Wanderparkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1b77d796-3696-48ec-ae2c-71de26b00aec</url>
+    <urlname>Wanderparkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.147333" lon="7.38105">
+    <time>2013-05-31T15:12:59.143</time>
+    <name>R14DA7C</name>
+    <cmt>Auf dem Weg zum Geocache habt ihr eine tolle Aussicht auf die Landschaft im Süden.</cmt>
+    <desc>Panorama-Hinweg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=12d59fae-bdb8-49db-a334-c798f710c9c2</url>
+    <urlname>Panorama-Hinweg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.145717" lon="7.366083">
+    <time>2013-05-31T15:12:59.147</time>
+    <name>R24DA7C</name>
+    <cmt>Den Zugang vom großen Weg zum kleinen Pfad hat jemand pink an Bäumen markiert. (Wenn der große Weg Kurven macht, habt ihr den Einstieg verpasst.)</cmt>
+    <desc>Pfad zum Schatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=464bfaa4-b2af-4120-b02a-2543ea92e423</url>
+    <urlname>Pfad zum Schatz</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.151883" lon="7.358417">
+    <time>2013-05-31T15:12:59.147</time>
+    <name>R34DA7C</name>
+    <cmt>Vom Schatz geht ihr die nördlichen wunderschönen Serpentinen runter, dann vielleicht in Lütz Kuchen essen und hier bei der schönen Kapelle führt euch am schöneren südlichen Ufer ein Weg sanft das Tal hinauf.</cmt>
+    <desc>Bachtal-Rückweg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d328cae4-589a-44a9-b793-aa88ecc236ed</url>
+    <urlname>Bachtal-Rückweg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.159267" lon="7.384183">
+    <time>2013-05-31T15:12:59.15</time>
+    <name>R44DA7C</name>
+    <cmt>Vom Bachtal her kommend geht ihr hier mit toller Aussicht nach Norden und Osten zum Wanderparkplatz zurück. Wieviele der Dörfer kennt ihr?</cmt>
+    <desc>Panorama-Rückweg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e2c5097e-eef0-45b8-830a-8f55f4fae538</url>
+    <urlname>Panorama-Rückweg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.827657" lon="7.406072">
+    <time>2013-06-01T01:43:39.17</time>
+    <name>PK4DAR8</name>
+    <cmt>Cache-Mobil hier abstellen</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1375c48f-6e37-498c-84e0-833ae08d2714</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.225767" lon="6.791983">
+    <time>2013-06-01T08:05:11.017</time>
+    <name>PK4DB90</name>
+    <cmt>Hier könnt ihr parken!</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=24203d12-4c6d-4fa4-b746-149fabdf48dd</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.842314" lon="7.808042">
+    <time>2013-06-05T07:58:29.65</time>
+    <name>PK4DKXC</name>
+    <cmt>hier kannst Du den Fluchtwagen parken </cmt>
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=babb6167-ecef-4ce2-80d5-15812f2ec3e6</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.198767" lon="7.684">
+    <time>2013-06-11T09:44:57.747</time>
+    <name>PK4E16N</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=95761740-fcd8-49c6-a590-27b3d5cf6daa</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.2781" lon="6.815517">
+    <time>2013-06-10T14:24:57.683</time>
+    <name>PK4E187</name>
+    <cmt>Ausschließlich hier dürft Ihr parken!</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fb749c14-25de-4ce6-9586-901a4158e1c6</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.643583" lon="7.5162">
+    <time>2013-06-15T08:54:23.22</time>
+    <name>PK4E9XY</name>
+    <cmt />
+    <desc>GC4E9XY Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6598cf06-5efc-40bb-abec-b4259ece5aca</url>
+    <urlname>GC4E9XY Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.271" lon="8.044483">
+    <time>2013-06-16T09:57:29.793</time>
+    <name>PK4ECE1</name>
+    <cmt>Ich empfehle diesen Parkplatz wegen Einkehrmöglichkeiten</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fe99e808-3953-490f-8d8d-2adafa301bb2</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.644167" lon="7.353167">
+    <time>2013-06-17T05:32:07.247</time>
+    <name>PK4EE8W</name>
+    <cmt />
+    <desc>GC4EE8W Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=abfd533b-964d-489f-976d-3a52c835d6d8</url>
+    <urlname>GC4EE8W Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.644167" lon="7.353167">
+    <time>2013-06-17T05:37:35.557</time>
+    <name>PK4EE95</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d55f6d97-351f-4fbe-891f-de15d05d27f7</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.644167" lon="7.353167">
+    <time>2013-06-17T05:45:10.18</time>
+    <name>PK4EE9D</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0d40e725-58bb-43c2-a046-a77b114a787f</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.147333" lon="7.709783">
+    <time>2013-06-20T06:14:57.09</time>
+    <name>PK4EKVM</name>
+    <cmt>Hier kann man kostenlos seinen PKW abstellen.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=557c47f9-ec84-4ef7-bf60-389f2078b7c8</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.712217" lon="7.279167">
+    <time>2013-06-22T02:38:59.387</time>
+    <name>014EPDV</name>
+    <cmt />
+    <desc>Schotterplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ab7cbb33-9d04-4cec-8402-dea5f7c1ea8f</url>
+    <urlname>Schotterplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.869033" lon="6.445517">
+    <time>2013-06-23T05:52:54.183</time>
+    <name>PK4ETDB</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5be00fc8-95d2-417d-992f-894781d33793</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.868067" lon="6.445067">
+    <time>2013-06-23T05:52:54.213</time>
+    <name>R14ETDB</name>
+    <cmt>An diesem Punkt dem Wanderweg folgen!</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e0182c88-2b86-4a72-bf11-8b314621e7e5</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.620533" lon="6.66795">
+    <time>2013-06-25T09:16:56.67</time>
+    <name>PK4EZBM</name>
+    <cmt>Hier kann geparkt werden</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0899c2c0-b8d6-48bb-8e0a-93d459366e80</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.090667" lon="7.183033">
+    <time>2013-07-03T09:21:15.697</time>
+    <name>PK4FFCB</name>
+    <cmt>Parkplatz "Römergräber"</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=780b2d9e-5da5-4960-8f89-c7b5c4950d0c</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.31605" lon="7.851433">
+    <time>2013-07-03T14:43:35.573</time>
+    <name>P14FG25</name>
+    <cmt>Empfohlener Parkplatz</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a41f56d5-4eaa-4236-aa86-c7bbd8eb4d0c</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.313733" lon="7.846617">
+    <time>2013-07-03T14:37:57.08</time>
+    <name>R14FG25</name>
+    <cmt>Weggabelung Richtung Platzburg. Bester Einstieg zum Cache</cmt>
+    <desc>Weggabelung zum Cache</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3acf0c6f-25d0-4ca4-8495-c7a1ff7490c4</url>
+    <urlname>Weggabelung zum Cache</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.314483" lon="7.847067">
+    <time>2013-07-03T14:37:57.103</time>
+    <name>R24FG25</name>
+    <cmt>Tolle Aussicht von der ehem. Platzburg aus. Sehenswert - kein muss :-)</cmt>
+    <desc>Tolle Aussicht</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=39d80a91-03c3-473c-a9a2-95e6d2b51586</url>
+    <urlname>Tolle Aussicht</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.86" lon="7.305117">
+    <time>2013-07-07T04:37:41.28</time>
+    <name>PK4FQ7F</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=523cceab-de4a-4c95-b198-6bd0aa9a6a47</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.382633" lon="7.278633">
+    <time>2013-07-29T06:22:45.49</time>
+    <name>PK4FX4M</name>
+    <cmt>Hier ist ein relativ sicherer Parkplatz</cmt>
+    <desc>GC4FX4M Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=df39c00a-e35d-4e42-a2ab-b274d0f85edb</url>
+    <urlname>GC4FX4M Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.94955" lon="6.806167">
+    <time>2013-07-10T14:43:05.873</time>
+    <name>PK4FY9G</name>
+    <cmt />
+    <desc>GC4FY9G Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6570246b-87b5-4fb0-9830-582a1cbac1a4</url>
+    <urlname>GC4FY9G Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.743783" lon="6.6927">
+    <time>2013-07-11T14:21:45.32</time>
+    <name>E14FYV5</name>
+    <cmt>Hier findet ihr abseits vom Parkplatz und fern von den meisten Blicken einen guten Zugang zum Wäldchen.</cmt>
+    <desc>empfohlener Zugangspunkt/recommended access point</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a66ab67d-6167-45e8-9953-5f72e0c6735a</url>
+    <urlname>empfohlener Zugangspunkt/recommended access point</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.743333" lon="6.692833">
+    <time>2013-07-11T14:25:06.907</time>
+    <name>E24FYV5</name>
+    <cmt>Von hieraus ist der Zugang zum Wäldchen zwar einfacher, allerdings ist die Gefahr wesentlich größer von Muggeln dabei entdeckt zu werden!!</cmt>
+    <desc>Zugangspunkt Parkplatz / access point parking lot</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b62a7737-3228-4db4-9d20-313e2064dea0</url>
+    <urlname>Zugangspunkt Parkplatz / access point parking lot</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.743" lon="6.693083">
+    <time>2013-07-11T14:28:10.2</time>
+    <name>PP4FYV5</name>
+    <cmt>Parkplatz</cmt>
+    <desc>Parkplatz / parking lot</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9fff987e-fcbb-4d1e-a129-171fae52c7d1</url>
+    <urlname>Parkplatz / parking lot</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.3108" lon="7.679183">
+    <time>2013-07-11T14:12:25.13</time>
+    <name>PK4G21P</name>
+    <cmt>Hier kann man mit 2 Autos parken</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=521e9cc5-cdb5-4349-a884-c07c58695ff1</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.202467" lon="7.89695">
+    <time>2013-07-27T05:52:29.467</time>
+    <name>PK4H6XK</name>
+    <cmt />
+    <desc>GC4H6XK Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0b87a6b7-0ed1-4872-b69d-b5c146393501</url>
+    <urlname>GC4H6XK Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.202467" lon="7.89695">
+    <time>2013-07-27T05:58:26.487</time>
+    <name>PK4H6Y4</name>
+    <cmt />
+    <desc>GC4H6Y4 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=92d5e652-3836-4723-b412-0eb58ac17715</url>
+    <urlname>GC4H6Y4 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.202467" lon="7.89695">
+    <time>2013-07-27T06:01:53.903</time>
+    <name>PK4H6YB</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1448ef18-3880-4182-b07c-5e2146fde578</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.11225" lon="7.94285">
+    <time>2013-08-04T10:50:29.06</time>
+    <name>PF4HW5Y</name>
+    <cmt>Nehmt ab hier den ehemaligen Pfad.</cmt>
+    <desc>Alter Pfad</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0600e651-9e63-4f3d-b213-e8f05eef7cb6</url>
+    <urlname>Alter Pfad</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.11265" lon="7.942067">
+    <time>2013-08-04T10:47:52.637</time>
+    <name>PK4HW5Y</name>
+    <cmt>Hier könnt ihr euer Cachemobil abstellen.</cmt>
+    <desc>GC4HW5Y Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=64179a91-16b9-42ee-84dc-6f1fbf83ab9f</url>
+    <urlname>GC4HW5Y Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.230367" lon="6.451317">
+    <time>2013-08-10T13:43:01.98</time>
+    <name>PK4JFTH</name>
+    <cmt />
+    <desc>GC4JFTH Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1cd1009b-732e-4402-ad1d-1250342edaca</url>
+    <urlname>GC4JFTH Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.191567" lon="7.33805">
+    <time>2013-08-10T14:23:19.67</time>
+    <name>KP4JFYV</name>
+    <cmt>ca. 2km entfernt</cmt>
+    <desc>Parkmöglichkeit 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6ab54b45-5cc2-4877-9559-8b7db2ee171e</url>
+    <urlname>Parkmöglichkeit 2</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1947" lon="7.332367">
+    <time>2013-08-10T14:23:19.66</time>
+    <name>PK4JFYV</name>
+    <cmt>ca. 1km entfernt</cmt>
+    <desc>Parkmöglichkeit 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=aca658d1-f9a0-4ad3-afba-9ffc84e50b92</url>
+    <urlname>Parkmöglichkeit 1</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.188767" lon="7.326333">
+    <time>2013-08-10T14:23:19.647</time>
+    <name>R14JFYV</name>
+    <cmt />
+    <desc>Einstieg in den Wald</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=98b9bd97-58ca-4ad0-bcb0-48bbb962963c</url>
+    <urlname>Einstieg in den Wald</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.348083" lon="7.217483">
+    <time>2013-08-12T08:47:46.547</time>
+    <name>PK4JN63</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9d578a58-0795-42da-834c-72fd103e5178</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.074083" lon="7.757817">
+    <time>2013-08-12T09:26:00.603</time>
+    <name>PK4JN8T</name>
+    <cmt>Hier kannst du dein Auto abstellen.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9f639416-cab2-4032-a912-d4be239ef5f9</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.228233" lon="7.581633">
+    <time>2013-08-17T13:13:12.603</time>
+    <name>PK4K3YG</name>
+    <cmt>Parkmöglichkeit ca. 60m vom Cache entfernt.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2afc0fc2-e08b-4932-afa6-27a05a9c9fb2</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.835133" lon="6.637167">
+    <time>2013-08-20T05:36:19.473</time>
+    <name>PK4KCAZ</name>
+    <cmt>Hier könnt ihr parken.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=994f5d62-ecab-47ac-a9da-f3c52d40bf22</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.4927" lon="7.50455">
+    <time>2013-08-25T07:27:00.503</time>
+    <name>PK4KTDA</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=af43642a-b7b9-4687-8dcc-18307d0ed39e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.839633" lon="7.370333">
+    <time>2013-08-26T12:11:11.04</time>
+    <name>PK4KYCW</name>
+    <cmt />
+    <desc>GC4KYCW Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=94194646-b3cc-4aec-9fb3-1672f6fdb5c2</url>
+    <urlname>GC4KYCW Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.529233" lon="8.01335">
+    <time>2013-08-27T03:23:56.07</time>
+    <name>PK4KZZE</name>
+    <cmt>Sportplatz Wilsenroth</cmt>
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b8a76443-f7a4-48a3-a0d7-cbc86a9409ce</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.532183" lon="7.999683">
+    <time>2014-10-18T04:44:55.213</time>
+    <name>R14KZZE</name>
+    <cmt>Ein versteckter, sehenswerter &amp; idyllischer Ort. Hier lag der Cache [url=http://coord.info/GC345TC]GC345TC[/url].</cmt>
+    <desc>Silbersee (Tiefgang)</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ae9fe0c1-55c3-4659-b342-0f8b2a140d51</url>
+    <urlname>Silbersee (Tiefgang)</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.531317" lon="7.99905">
+    <time>2014-10-18T04:47:04.67</time>
+    <name>R24KZZE</name>
+    <cmt>Südwestlich des Sees gibt es eine imposante Felswand zu bestaunen.</cmt>
+    <desc>Felswand</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b9846ace-dde6-4ba2-85f3-1e38f1097605</url>
+    <urlname>Felswand</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.72125" lon="7.8236">
+    <time>2013-09-03T13:05:31.517</time>
+    <name>PK4MHVH</name>
+    <cmt />
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=3bcafec9-1c60-440b-828e-491c6bd1097a</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.721067" lon="7.82275">
+    <time>2013-09-03T13:06:11.38</time>
+    <name>TR4MHVH</name>
+    <cmt />
+    <desc>Förderturm</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7c73ab9a-891c-45ce-9481-329e298be0dd</url>
+    <urlname>Förderturm</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.071333" lon="7.514633">
+    <time>2013-09-06T10:11:02.46</time>
+    <name>PK4MR81</name>
+    <cmt />
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0812e096-97ea-4a29-8da4-285114e3a2a5</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.0701" lon="7.522383">
+    <time>2013-09-06T10:12:18.217</time>
+    <name>RP4MR81</name>
+    <cmt />
+    <desc>Wegweiser zur Eiche</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=91465f8d-a33e-4f03-b4d7-39df435c487e</url>
+    <urlname>Wegweiser zur Eiche</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.147333" lon="7.709783">
+    <time>2013-09-12T09:24:22.21</time>
+    <name>PK4N6PG</name>
+    <cmt>Hier kann man kostenlos seinen PKW abstellen.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=bca9f01f-102d-4d92-a100-02bc7f1ce661</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.6565" lon="6.45575">
+    <time>2013-09-16T11:24:18.74</time>
+    <name>PK4NFEM</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=bad710c3-9539-4e33-83f5-a9d954aea9b3</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.647611" lon="8.109844">
+    <time>2013-09-17T09:21:31.31</time>
+    <name>PK4NFM0</name>
+    <cmt>Es kann unweit der Location geparkt werden.</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b0818922-14be-47a7-94ce-953427f58474</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.884233" lon="8.265167">
+    <time>2013-09-17T05:05:02.73</time>
+    <name>PK4NGP2</name>
+    <cmt>Hier kann problemlos geparkt werden.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a1d9421e-c575-406f-a815-e98bcdeccee4</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.355783" lon="8.049133">
+    <time>2013-09-22T04:05:23.543</time>
+    <name>PK4NM5R</name>
+    <cmt />
+    <desc>GC4NM5R Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=360827ba-1c9b-4c42-9a8f-6eeb67b38e3d</url>
+    <urlname>GC4NM5R Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.904064" lon="8.312225">
+    <time>2013-09-20T00:49:14.77</time>
+    <name>PK4NNHP</name>
+    <cmt />
+    <desc>GC4NNHP Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5ee9e0a4-b36b-417b-ba52-a7ee80275287</url>
+    <urlname>GC4NNHP Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.206817" lon="7.614417">
+    <time>2013-09-20T07:04:58.97</time>
+    <name>PK4NNXN</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=8835ed49-bec3-439a-8682-cd746750d461</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.657867" lon="6.563683">
+    <time>2013-09-22T07:32:33.517</time>
+    <name>PK4NTVB</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2bde38c8-e063-4681-bb4a-0c707b32a20c</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.148733" lon="7.2585">
+    <time>2014-04-21T01:52:24.587</time>
+    <name>014D9KW</name>
+    <cmt />
+    <desc>Archäologischer Wanderweg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=dcd7fc5b-7751-4f51-89c1-df673ef0dab9</url>
+    <urlname>Archäologischer Wanderweg</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.090633" lon="7.823817">
+    <time>2013-06-01T09:41:01.48</time>
+    <name>PK4DBCA</name>
+    <cmt />
+    <desc>GC4DBCA Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=900c14d8-b406-4614-82ae-52cdecf3898a</url>
+    <urlname>GC4DBCA Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.9117" lon="7.078817">
+    <time>2013-09-27T05:36:34.227</time>
+    <name>PK4P49B</name>
+    <cmt>Platz für's Cachemobil...</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=089b6d0d-ca63-4fc0-9d4c-556317979b13</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.911983" lon="7.079017">
+    <time>2013-09-27T05:36:34.273</time>
+    <name>R14P49B</name>
+    <cmt>Hier beginnt der Wanderweg</cmt>
+    <desc>Anfangspunkt Weg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=8a47a001-e72e-474f-82ba-119fa6e6094d</url>
+    <urlname>Anfangspunkt Weg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.025083" lon="7.10635">
+    <time>2013-10-04T05:10:22.853</time>
+    <name>PK4PJAR</name>
+    <cmt>Parkplatz 1</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=e07e1859-18cd-468a-821f-ca2c215f9008</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.028717" lon="7.10685">
+    <time>2013-10-07T10:18:11.04</time>
+    <name>PP4PJAR</name>
+    <cmt>Parkplatz 2</cmt>
+    <desc>GC4PJAR Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=dc78a798-2556-460f-baa7-c64c13b266ea</url>
+    <urlname>GC4PJAR Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.005433" lon="7.0718">
+    <time>2013-10-05T15:02:12.767</time>
+    <name>PK4PNCQ</name>
+    <cmt>Parkmöglichkeit am Wasserhäuschen. Von dort die Strasse überqueren und schräg rechts auf den Waldweg starten bis zum Wegpunkt. DriveIN mit PKW nicht empfohlen</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=95c66e6c-dbca-4312-9263-c851c9133e5e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.003817" lon="7.073967">
+    <time>2013-10-05T15:02:12.77</time>
+    <name>R14PNCQ</name>
+    <cmt>hier links abbiegen und dem Weg folgen</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=4255a576-bca2-4063-bdd7-b1e728cb151f</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.138783" lon="7.853417">
+    <time>2013-10-07T10:38:05.75</time>
+    <name>AS4PTMY</name>
+    <cmt>Aufgang zum neuen Teil des Holzschuhpfads von Süden</cmt>
+    <desc>Aufgang Süd</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=8da1ea8d-b2fa-4da7-b96e-691d797d5410</url>
+    <urlname>Aufgang Süd</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="49.13885" lon="7.84335">
+    <time>2013-10-07T10:38:05.75</time>
+    <name>AW4PTMY</name>
+    <cmt>Aufgang zum neuen Teil des Holzschuhpfads von Westen</cmt>
+    <desc>Aufgang West</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=64e36043-0c36-4cdb-b596-1f8839eee8bc</url>
+    <urlname>Aufgang West</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="50.147333" lon="7.709783">
+    <time>2013-10-09T10:30:33.66</time>
+    <name>PK4PYGF</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7fbb9662-8087-4a86-a4f3-99a1899a9c1e</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.353967" lon="8.035183">
+    <time>2013-10-10T07:55:46.433</time>
+    <name>PK4PZX2</name>
+    <cmt>Bitte hier Parken, es ist nicht mehr weit zur Dose.</cmt>
+    <desc>GC4PZX2 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b93d7caa-17e2-4f77-8785-c46a5b80e0d7</url>
+    <urlname>GC4PZX2 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.3508" lon="8.033767">
+    <time>2013-10-10T08:05:45.633</time>
+    <name>RP4PZX2</name>
+    <cmt>ca. 15m oberhalb des gut einsehbaren Weges gibt es noch einen Weg.
+Den müsst ihr nehmen.</cmt>
+    <desc>Abzweig</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f7804327-120c-4514-bec8-8d20a74125c8</url>
+    <urlname>Abzweig</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.351983" lon="8.034933">
+    <time>2014-01-06T08:22:01.897</time>
+    <name>ZG4PZX2</name>
+    <cmt>Hier ist der Eingang.</cmt>
+    <desc>Eingang</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=af1ee03d-df79-4ec6-97f3-c1046f20b575</url>
+    <urlname>Eingang</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.427833" lon="7.774667">
+    <time>2014-12-17T05:17:48.397</time>
+    <name>PK4Q875</name>
+    <cmt />
+    <desc>GC4Q875 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2eea78ea-5550-4dc0-add2-41efe7f22275</url>
+    <urlname>GC4Q875 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.545267" lon="8.36965">
+    <time>2013-10-16T03:44:49.2</time>
+    <name>PK4QBBC</name>
+    <cmt>Parkmöglichkeit auch außerhalb der Öffnungszeiten
+---------------------
+parking possible even while the shop is closed</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a086bda7-e1ce-4615-bac8-a0eb12975e2b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.212683" lon="7.395417">
+    <time>2019-10-03T01:59:18.84</time>
+    <name>014QF6M</name>
+    <cmt />
+    <desc>Wegpunkt</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=ee6a6f23-cf39-4afe-88e3-61eecb063a51</url>
+    <urlname>Wegpunkt</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.723583" lon="6.7596">
+    <time>2013-10-20T09:26:17.9</time>
+    <name>PK4QGKK</name>
+    <cmt />
+    <desc>GC4QGKK Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=bfc13ece-4a80-44c8-8eaf-c77e31fe6f24</url>
+    <urlname>GC4QGKK Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.799867" lon="6.742967">
+    <time>2013-10-22T10:26:17.907</time>
+    <name>PK4QQTW</name>
+    <cmt>kleine Haltebucht</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0d0479ef-9db7-46c6-aefc-55ecfc2bf49b</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.941883" lon="6.393667">
+    <time>2013-10-24T02:38:29.99</time>
+    <name>PK4QVTH</name>
+    <cmt>Hier könnt ihr Euer Cachemobil abstellen. Bei Nässe bitte Schrittgeschwindigkeit fahren damit die Wiese nicht beschädigt wird. Von hier aus könnt ihr auch den Cache Bettinger Bürch angehen.</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=edd66aaa-7b16-47e6-932f-49197f9f228d</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.917283" lon="7.575833">
+    <time>2013-11-12T05:03:20.033</time>
+    <name>PK4QZ7K</name>
+    <cmt />
+    <desc>GC4QZ7K Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=057510a0-7f1d-4eb1-b299-b5b945b238ff</url>
+    <urlname>GC4QZ7K Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.655817" lon="8.0025">
+    <time>2013-10-26T06:20:13.157</time>
+    <name>PK4QZ7Z</name>
+    <cmt>Parken am Strassenrand</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=4063ba49-af1b-445d-bfbf-bfa397354bcb</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.65335" lon="7.987017">
+    <time>2013-10-26T06:20:13.16</time>
+    <name>R14QZ7Z</name>
+    <cmt>Einmündung Pfad(Markierung 6)</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5541a06f-0ecb-4544-a5ee-cfa7f3888c39</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.6507" lon="7.985317">
+    <time>2013-10-26T06:20:13.16</time>
+    <name>R24QZ7Z</name>
+    <cmt>rechts steil hoch</cmt>
+    <desc>Reference Point 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=82595bc5-2f04-4cb9-9554-9198e073bb63</url>
+    <urlname>Reference Point 2</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.659133" lon="8.003433">
+    <time>2013-10-26T06:20:13.16</time>
+    <name>R34QZ7Z</name>
+    <cmt>Fast am Cachemobil,aber eben nur fast</cmt>
+    <desc>Reference Point 3</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=cc920d3c-87f2-488e-9236-151358e862e1</url>
+    <urlname>Reference Point 3</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.344233" lon="8.26355">
+    <time>2013-11-01T09:35:50.303</time>
+    <name>PK4R1BW</name>
+    <cmt />
+    <desc>GC4R1BW Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f7e3443b-4ca4-4121-8676-86cdac3c5884</url>
+    <urlname>GC4R1BW Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.217" lon="7.872333">
+    <time>2013-12-07T15:04:29.62</time>
+    <name>PA4R1RM</name>
+    <cmt />
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=9c1bcbde-09ac-4480-bcdd-02163882ef53</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.582017" lon="6.570583">
+    <time>2013-10-29T13:16:55.357</time>
+    <name>PK4R6HY</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5af82009-4e8f-488f-b43a-b065a01e0f18</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.868017" lon="8.136683">
+    <time>2018-01-01T07:49:43.577</time>
+    <name>014R9J7</name>
+    <cmt>Die Furt hilft das eine Wasser zu überqueren</cmt>
+    <desc>Furt</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fe659703-f4cb-4bfb-b4f6-460d01fbd52f</url>
+    <urlname>Furt</urlname>
+    <sym>Trailhead</sym>
+    <type>Waypoint|Trailhead</type>
+  </wpt>
+  <wpt lat="49.909017" lon="7.594667">
+    <time>2013-11-12T04:56:40.463</time>
+    <name>PK4RRMC</name>
+    <cmt />
+    <desc>GC4RRMC Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=55cf5690-a38b-4a44-846d-26dd1aa32cfb</url>
+    <urlname>GC4RRMC Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.199433" lon="7.901633">
+    <time>2013-11-10T04:35:01.57</time>
+    <name>P 4RV51</name>
+    <cmt>Hier kann euer Cachemobil abgestellt werden</cmt>
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=573603a9-30c8-4c8f-a4f1-216efbfa228f</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.199433" lon="7.901633">
+    <time>2013-11-10T04:55:48.973</time>
+    <name>PK4RV5V</name>
+    <cmt>Abstellmöglichkeit für's Cachemobil</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1f39b7d8-c9dd-47e6-b612-03d9c7abdb82</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.199433" lon="7.901633">
+    <time>2013-11-10T05:14:04.207</time>
+    <name>PK4RV72</name>
+    <cmt>Hier bitte parken</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=1c79c018-796d-4f7d-9968-f63b0a715c00</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.892917" lon="7.846733">
+    <time>2013-11-13T06:51:31.02</time>
+    <name>PK4T0JV</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=4d02ab37-4bcb-41d7-a363-ed7a1400d4dd</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.302317" lon="8.083233">
+    <time>2013-11-13T12:28:52.743</time>
+    <name>PK4T12Y</name>
+    <cmt>Parkplatz</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=db7fd007-7a51-4840-9073-457f066c6dd7</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.420967" lon="7.579417">
+    <time>2013-11-23T13:06:02.97</time>
+    <name>PK4TH2M</name>
+    <cmt>Parkmöglichkeiten</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=429e0f82-28d3-4026-bb7e-19b306f20bf6</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.420283" lon="7.582333">
+    <time>2016-07-07T06:40:51.403</time>
+    <name>RP4TH2M</name>
+    <cmt />
+    <desc>Zugang</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=70d30d27-09f2-49f8-a3d9-0eec430faa4c</url>
+    <urlname>Zugang</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.146967" lon="6.552083">
+    <time>2016-07-15T09:48:58.84</time>
+    <name>004TPT1</name>
+    <cmt>hier könnt ihr euer Auto für die Dauer eures Spaziergangs abstellen</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=42de3a4f-16ff-4fc8-aeb7-23a3738bf318</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1235" lon="6.560017">
+    <time>2016-07-15T09:57:35.88</time>
+    <name>P24TPT1</name>
+    <cmt>hier könnt ihr euer Auto für die Dauer eures Spaziergangs abstellen.</cmt>
+    <desc>Parkplatz 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c2a64024-9867-4482-9eb2-fef7ed29059b</url>
+    <urlname>Parkplatz 2</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.146967" lon="6.552083">
+    <time>2016-07-15T09:52:44.45</time>
+    <name>004TPTD</name>
+    <cmt>hier könnt ihr euer Auto für die Dauer eures Spaziergangs abstellen.</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=92bc59bf-c9b3-41fb-b4d9-2c2786a8e5ea</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1235" lon="6.560017">
+    <time>2016-07-15T09:53:47.2</time>
+    <name>P24TPTD</name>
+    <cmt>hier könnt ihr euer Auto für die Dauer eures Spaziergangs abstellen.</cmt>
+    <desc>Parkplatz 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=923e1b14-3db0-4aad-988e-ca417eb0128d</url>
+    <urlname>Parkplatz 2</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.1235" lon="6.560017">
+    <time>2016-07-15T10:01:18.32</time>
+    <name>004TPTM</name>
+    <cmt>hier könnt ihr für die Dauer eures Spaziergangs euer Auto abstellen.</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=91fe9b89-45ea-4ffe-a887-614cfd74cd54</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.606667" lon="8.399333">
+    <time>2013-12-05T05:19:43.94</time>
+    <name>PK4V26T</name>
+    <cmt />
+    <desc>GC4V26T Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a2b8ff55-d098-4be7-a159-6f558cbee5bc</url>
+    <urlname>GC4V26T Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.64755" lon="6.928633">
+    <time>2013-12-04T12:25:10.867</time>
+    <name>PK4V2C9</name>
+    <cmt>Offizieller Abholpunkt vom Saar-Hunsrück-Steig</cmt>
+    <desc>GC4V2C9 Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a54c94f4-5191-4f9b-a6a9-391c6390e629</url>
+    <urlname>GC4V2C9 Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.644217" lon="6.9307">
+    <time>2013-12-04T12:27:23.793</time>
+    <name>R14V2C9</name>
+    <cmt>Aussichtspunkt auf dem Gipfel des "Grauen Adler"</cmt>
+    <desc>GC4V2C9 Gipfel des "Grauen Adler"</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fe712c3e-8915-42f0-9134-96f601a3532d</url>
+    <urlname>GC4V2C9 Gipfel des "Grauen Adler"</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.268533" lon="8.337167">
+    <time>2013-12-12T03:30:14.85</time>
+    <name>PK4VB5X</name>
+    <cmt>Hier könnt ihr euer Cachermobil parken</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=23f11c54-d366-415f-8ff8-ae80b3e977a8</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.826667" lon="7.863767">
+    <time>2013-12-15T07:50:27.76</time>
+    <name>124VE8A</name>
+    <cmt>Hier könnt ihr parken.</cmt>
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=91556fda-ec46-4100-899c-f4b136234403</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.428933" lon="7.691283">
+    <time>2013-12-19T06:05:22.073</time>
+    <name>PK4VK8P</name>
+    <cmt />
+    <desc>GC4VK8P Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=91851d02-22da-40da-a9d8-f7d3e1027145</url>
+    <urlname>GC4VK8P Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.16925" lon="6.8704">
+    <time>2013-12-28T22:57:25.947</time>
+    <name>S14VTR7</name>
+    <cmt>Hier kann man parken.</cmt>
+    <desc>Parken</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=087addc1-0db2-4895-93f4-08e021f37c8a</url>
+    <urlname>Parken</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.781683" lon="6.90255">
+    <time>2013-12-27T09:38:20.02</time>
+    <name>PK4VY6P</name>
+    <cmt />
+    <desc>GC4VY6P Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=afcb4630-2f84-45d3-a6d2-71a64b2562b6</url>
+    <urlname>GC4VY6P Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.48645" lon="7.831983">
+    <time>2013-12-29T03:51:08.48</time>
+    <name>PK4W190</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=0b03d730-5e79-441c-9ced-827ebda08277</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.444733" lon="7.761867">
+    <time>2018-11-10T07:11:45.91</time>
+    <name>014W4AE</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=d03471f1-41f8-4ace-aa79-3354c447ad8b</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.16755" lon="7.199017">
+    <time>2014-01-02T11:00:44.22</time>
+    <name>PK4WA4J</name>
+    <cmt />
+    <desc>Parkplatz</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6fe1498c-5da5-4265-b9c7-44e291debdd9</url>
+    <urlname>Parkplatz</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.62255" lon="7.55115">
+    <time>2014-01-03T10:01:06.32</time>
+    <name>PK4WBVX</name>
+    <cmt />
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=cad1359d-27c7-4f00-842d-2acaa38ac319</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.263317" lon="7.826633">
+    <time>2014-01-04T06:38:22.173</time>
+    <name>PK4WD5X</name>
+    <cmt>Bitte hier parken und nicht am engen Fahrbahnrand!</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=5aa597c1-0ef8-4a20-a896-6efabff7c636</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.199433" lon="7.901633">
+    <time>2014-01-05T04:11:47.24</time>
+    <name>PK4WF0A</name>
+    <cmt />
+    <desc>Parkmöglichkeit</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=b6554ff8-4481-4b91-889d-801ae862d720</url>
+    <urlname>Parkmöglichkeit</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.2458" lon="8.051433">
+    <time>2018-08-15T05:04:01.393</time>
+    <name>014WFMP</name>
+    <cmt />
+    <desc>Holzdieb</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=7de2897c-271c-4514-ad4a-e46fca74c58d</url>
+    <urlname>Holzdieb</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.13505" lon="7.416017">
+    <time>2014-01-06T11:32:34.75</time>
+    <name>PK4WJ3C</name>
+    <cmt>Hier könnt ihr das Auto endlich abstellen und in die Natur spazieren.</cmt>
+    <desc>PARKEN</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c03d9d2d-e973-4697-bf9b-9d5dd2308b43</url>
+    <urlname>PARKEN</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.130933" lon="7.418383">
+    <time>2014-01-06T11:32:34.753</time>
+    <name>R14WJ3C</name>
+    <cmt>Hier geht es auf den Lützbachtal-Wanderweg mit der Markierung L. Folgt dem L-Weg bis kurz vor den Höhlenfelsen.</cmt>
+    <desc>WANDERWEG ZUM SCHATZ</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=4a609bb1-aa5d-4642-9d0b-fc2717e4b20b</url>
+    <urlname>WANDERWEG ZUM SCHATZ</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="49.4927" lon="7.50455">
+    <time>2014-01-09T08:33:01.303</time>
+    <name>PK4WP1F</name>
+    <cmt>Parking at the Zip Line in Fockenberg-Limbach</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f77cdc48-3589-419a-80af-90c6215b09eb</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.353967" lon="8.035183">
+    <time>2014-01-10T09:42:19.243</time>
+    <name>PK4WQEF</name>
+    <cmt>Parkt bitte hier.</cmt>
+    <desc>GC4WQEF Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=a11a6332-6305-4aa9-83ed-65eec03e993e</url>
+    <urlname>GC4WQEF Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.335717" lon="7.357133">
+    <time>2014-01-12T11:12:02.193</time>
+    <name>R14WWDR</name>
+    <cmt>Einstieg zum Pfad der zu dem Cache führt</cmt>
+    <desc>Einstieg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=08c22953-ac27-4d0e-b227-7dbdfa1c0673</url>
+    <urlname>Einstieg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.3507" lon="7.193967">
+    <time>2014-04-18T09:06:25.047</time>
+    <name>PK4WYMY</name>
+    <cmt />
+    <desc>GC4WYMY Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6d1983b1-5164-4fb3-ae41-7ca5681c7553</url>
+    <urlname>GC4WYMY Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.9753" lon="7.039667">
+    <time>2014-01-15T03:21:19.053</time>
+    <name>PK4X0GA</name>
+    <cmt>Parkplatz als Ausgangspunkt für Wanderung</cmt>
+    <desc>Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=85abf681-08d3-4500-ae09-5e240c86617c</url>
+    <urlname>Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="49.970634" lon="7.036535">
+    <time>2014-01-15T03:21:19.06</time>
+    <name>R14X0GA</name>
+    <cmt>von hier aus folgt dem Weg in den Wald</cmt>
+    <desc>Reference Point 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c47ff41e-b979-4686-b92c-91dfc847b12d</url>
+    <urlname>Reference Point 1</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.355383" lon="7.2733">
+    <time>2014-08-09T03:28:22.69</time>
+    <name>PK4X1TK</name>
+    <cmt>Bitte hier an der Strasse parken und nicht bis zum Cache fahren !!!</cmt>
+    <desc>GC4X1TK Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=c1646ef4-306f-429b-8e1a-3a2682c42d2e</url>
+    <urlname>GC4X1TK Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.55995" lon="7.545967">
+    <time>2014-01-19T02:14:55.24</time>
+    <name>PK4X3VK</name>
+    <cmt>Parken, Zugang und "Hilfsmittel" zum TB Hotel</cmt>
+    <desc>GC4X3VK Parking</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=fd1d324e-6e08-4774-8a90-2a85ec7a8a04</url>
+    <urlname>GC4X3VK Parking</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.32695" lon="7.364467">
+    <time>2014-01-19T03:39:17.517</time>
+    <name>R14X6T9</name>
+    <cmt>Möglicher Einstieg Back to Nature #5</cmt>
+    <desc>Einstieg</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=04d5ad3e-00c3-4229-9584-c7f745964cca</url>
+    <urlname>Einstieg</urlname>
+    <sym>Reference Point</sym>
+    <type>Waypoint|Reference Point</type>
+  </wpt>
+  <wpt lat="50.534217" lon="7.0457">
+    <time>2014-07-27T13:53:37.313</time>
+    <name>P15432Z</name>
+    <cmt>Parkplatz im Tal</cmt>
+    <desc>Parkplatz 1</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=17b80de6-53af-42c9-ab27-26fe1250db97</url>
+    <urlname>Parkplatz 1</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.529583" lon="7.041367">
+    <time>2014-10-26T15:06:46.54</time>
+    <name>P25432Z</name>
+    <cmt>Parkplatz am Bahnhof</cmt>
+    <desc>Parkplatz 2</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=f05e3bc3-fb4a-4948-a5aa-7b3cc206c871</url>
+    <urlname>Parkplatz 2</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.528767" lon="7.04775">
+    <time>2014-07-27T13:55:49.243</time>
+    <name>P35432Z</name>
+    <cmt>Parkplatz auf halben Weg</cmt>
+    <desc>Parkplatz 3</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2235697a-dedc-485e-94d6-618bc9b8f270</url>
+    <urlname>Parkplatz 3</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.5281" lon="7.0525">
+    <time>2014-07-27T13:57:54.88</time>
+    <name>P45432Z</name>
+    <cmt>Parkplatz Krausberghütte</cmt>
+    <desc>Parkplatz 4</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=6d1a0219-28e4-4381-9c97-8f0dcb8d7566</url>
+    <urlname>Parkplatz 4</urlname>
+    <sym>Parking Area</sym>
+    <type>Waypoint|Parking Area</type>
+  </wpt>
+  <wpt lat="50.528083" lon="7.051733">
+    <time>2014-07-27T13:44:36.7</time>
+    <name>ZZ5432Z</name>
+    <cmt>Krausbergturm</cmt>
+    <desc>20900</desc>
+    <url>http://www.geocaching.com/seek/wpt.aspx?WID=2e1ad389-14c9-48b6-9635-652119b67eed</url>
+    <urlname>20900</urlname>
+    <sym>Final Location</sym>
+    <type>Waypoint|Final Location</type>
+  </wpt>
+</gpx>

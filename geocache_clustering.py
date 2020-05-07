@@ -1,46 +1,29 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import numpy as np
+import pandas as pd  
+import plotly.graph_objects as go
+
 import dash
 import dash_core_components as dcc
 import dash_bootstrap_components as dbc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
 
-import xml.etree.ElementTree as ET
-import plotly.graph_objects as go
-import pandas as pd    
-import glob
 from sklearn.cluster import dbscan
-import numpy as np
 
 token = "pk.eyJ1IjoiY2hpY290b2JpIiwiYSI6ImNrOXEzdXNzNDBnbnMzZnJ0NjdjNHJtenYifQ.1zM3EIf0UGBiauBZcEJAGg"
+p = "/home/hofmann/geocache_clustering/geocache_clustering/data.pickle"
+df = pd.read_pickle(p)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 
-all_markers = []
-lats = []
-lons = []
-fs = glob.glob('/home/hofmann/Downloads/geocache/*/*.gpx',recursive=True)
-
-for f in fs:
-    if not "wpts" in f:
-        root = ET.parse(f).getroot()
-        for i in range(10,len(root)):
-            lat = root[i].attrib['lat']
-            lon = root[i].attrib['lon']
-            lats.append(float(lat))
-            lons.append(float(lon))
-
-df = pd.DataFrame({"Lat":lats,"Lon":lons})
-df["LatRad"] = df["Lat"] / 180 * 3.141592653
-df["LonRad"] = df["Lon"] / 180 * 3.141592653
-
-a = np.arange(0,0.001,0.0002)
-b = list(map(lambda x : "{:.4f}".format(x),a))
+a = range(0,30,5)
+b = list(map(str,a))
 m = dict(zip(a,b))
 
-a = range(0,50,5)
+a = range(0,30,5)
 b = list(map(str,a))
 m2 = dict(zip(a,b))
 
@@ -51,31 +34,21 @@ m3 = dict(zip(a,b))
 app.layout = html.Div(
     [dbc.Row([dbc.Col(
         html.Div([
-            html.Label("Epsilon in DBSCAN",htmlFor="eps"),
+            html.Label("Epsilon in DBSCAN x 1e-5",htmlFor="eps"),
             dcc.Slider(
                 id='eps',
                 min=0,
-                max=0.001,
-                step=0.00001,
-                value=0.0005,
+                max=30,
+                value=14,
                 marks=m
             ),
             html.Label("Min #Pts per cluster",htmlFor="npts"),
             dcc.Slider(
                 id='npts',
                 min=0,
-                max=50,
-                step=5,
-                value=30,
+                max=30,
+                value=10,
                 marks=m2
-            ),
-            html.Label("Show #Cluster",htmlFor="nclstr"),
-            dcc.Slider(
-                id='nclstr',
-                min=4,
-                max=20,
-                value=5,
-                marks=m3
             ),
             dcc.Checklist(
                 id="unclstrd_pts",
@@ -96,43 +69,40 @@ app.layout = html.Div(
 @app.callback(
     Output('gra', 'figure'),
     [Input('eps', 'value'),Input('npts','value'),
-     Input("nclstr","value"),Input('unclstrd_pts','value')],
+     Input('unclstrd_pts','value')],
     [State('gra','relayoutData')]
     )
-def update_figure(eps,npts,nclstr,unclstrd_pts,relayoutData):
+def update_figure(eps,npts,unclstrd_pts,relayoutData):
     # Clustering
     fig = go.Figure()
     
     mdf = df.copy()    
     if relayoutData and "mapbox._derived" in relayoutData:
-            mat = relayoutData["mapbox._derived"]["coordinates"]
-            
-            lon_min = min(np.array(mat)[:,0])
-            lon_max = max(np.array(mat)[:,0])
-            #width = lon_max - lon_min
-            #lon_min -= width * 0.1
-            #lon_max += width * 0.1
-            
-            lat_min = min(np.array(mat)[:,1])
-            lat_max = max(np.array(mat)[:,1])
-            #height = lat_max - lat_min
-            #lat_min -= height * 0.1
-            #lat_max += height * 0.1
-            
-            mdf = mdf[mdf["Lat"]>lat_min]
-            mdf = mdf[mdf["Lat"]<lat_max]
-            mdf = mdf[mdf["Lon"]>lon_min]
-            mdf = mdf[mdf["Lon"]<lon_max]
-            
-            lat0 = relayoutData["mapbox.center"]["lat"]
-            lon0 = relayoutData["mapbox.center"]["lon"]
-            zoom0 = relayoutData["mapbox.zoom"]
+        mat = relayoutData["mapbox._derived"]["coordinates"]
+        
+        lon_min = min(np.array(mat)[:,0])
+        lon_max = max(np.array(mat)[:,0])
+        lat_min = min(np.array(mat)[:,1])
+        lat_max = max(np.array(mat)[:,1])
+        lat0 = relayoutData["mapbox.center"]["lat"]
+        lon0 = relayoutData["mapbox.center"]["lon"]
+        zoom0 = relayoutData["mapbox.zoom"]
     else:
+        lon_min = 7.3
+        lon_max = 8.3
+        lat_min = 49.2
+        lat_max = 49.7
         lat0 = 49.436
         lon0 = 7.766
-        zoom0 = 7
-       
-    res = dbscan(mdf[["LatRad","LonRad"]].values,eps=eps,min_samples=npts,metric='haversine')
+        zoom0 = 9.5
+
+    mdf = mdf[mdf["Lat"]>lat_min]
+    mdf = mdf[mdf["Lat"]<lat_max]
+    mdf = mdf[mdf["Lon"]>lon_min]
+    mdf = mdf[mdf["Lon"]<lon_max]
+    
+    np.random.seed(42) 
+    res = dbscan(mdf[["LatRad","LonRad"]].values,eps=eps*1e-5,min_samples=npts,metric='haversine')
     grpd = mdf.copy()
     grpd["cluster"] = res[1]
 
@@ -146,18 +116,18 @@ def update_figure(eps,npts,nclstr,unclstrd_pts,relayoutData):
                 opacity=0.5
             ),
         lon = grp["Lon"],
-        lat=grp["Lat"]))
+        lat=grp["Lat"],text="No cluster"))
     
-    nclstr = min(max(res[1]+1),nclstr)
-    
-    for idx_clstr in range(nclstr):
+    for idx_clstr in range(max(res[1])+1):
         grp = grpd[grpd["cluster"]==idx_clstr]
         fig.add_trace(go.Scattermapbox(
         mode = "markers",
         lon = grp["Lon"],
-        lat=grp["Lat"]))
+        lat=grp["Lat"],
+        text="Cluster "+str(idx_clstr+1)))
     fig.update_layout(
     go.Layout(
+        showlegend=False,   
     mapbox = dict(
             center=go.layout.mapbox.Center(lat=lat0,lon=lon0),
             accesstoken=token,
