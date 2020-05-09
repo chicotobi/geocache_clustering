@@ -14,7 +14,7 @@ from dash.dependencies import Input, Output, State
 from sklearn.cluster import dbscan
 
 token = "pk.eyJ1IjoiY2hpY290b2JpIiwiYSI6ImNrOXEzdXNzNDBnbnMzZnJ0NjdjNHJtenYifQ.1zM3EIf0UGBiauBZcEJAGg"
-p = "/home/hofmann/geocache_clustering/geocache_clustering/data.pickle"
+p = "/home/hofmann/geocache_clustering/data.pickle"
 df = pd.read_pickle(p)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
