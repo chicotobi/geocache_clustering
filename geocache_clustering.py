@@ -5,6 +5,9 @@ import numpy as np
 import pandas as pd  
 import plotly.graph_objects as go
 
+import flask
+import os
+from random import randint
 import dash
 import dash_core_components as dcc
 import dash_bootstrap_components as dbc
@@ -14,10 +17,12 @@ from dash.dependencies import Input, Output, State
 from sklearn.cluster import dbscan
 
 token = "pk.eyJ1IjoiY2hpY290b2JpIiwiYSI6ImNrOXEzdXNzNDBnbnMzZnJ0NjdjNHJtenYifQ.1zM3EIf0UGBiauBZcEJAGg"
-p = "/home/hofmann/geocache_clustering/data.pickle"
+p = "data.pickle"
 df = pd.read_pickle(p)
 
-app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = flask.Flask(__name__)
+server.secret_key = os.environ.get('secret_key', str(randint(0, 1000000)))
+app = dash.Dash(__name__, server=server, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 a = range(0,30,5)
 b = list(map(str,a))
@@ -141,4 +146,4 @@ def update_figure(eps,npts,unclstrd_pts,relayoutData):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.server.run(debug=True,threaded=True)
