@@ -140,4 +140,5 @@ def update_figure(eps,npts,unclstrd_pts,relayoutData):
             ))
     return fig
 
-app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run_server(debug=True)
