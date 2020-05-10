@@ -6,4 +6,3 @@ plotly
 sklearn
 gunicorn
 gpxpy
-urllib

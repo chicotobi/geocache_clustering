@@ -188,12 +188,6 @@ def main_callback(eps,npts,checkbox_plot_unclustered_points,relayoutData):
     all_cluster_index = range(max(d["cluster"])+1)
     options = [{'label': i, 'value': i} for i in all_cluster_index]
     
-    # Download file
-    txt = "hello world"
-    path = "tmp.txt"
-    with open(path, "w") as file:
-        file.write(txt)
-    send_file(path, as_attachment=True)
     return fig, options
 
 @app.callback(
