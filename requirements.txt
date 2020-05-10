@@ -5,3 +5,5 @@ pandas
 plotly
 sklearn
 gunicorn
+gpxpy
+urllib
